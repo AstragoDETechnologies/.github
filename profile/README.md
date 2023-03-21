@@ -1,3 +1,3 @@
-# AstragoDE Tech
+# AstragoDE Technology
 
 ### [Main Profile](https://github.com/AstragoDE)
